@@ -68,14 +68,13 @@ Omnes Immobilier est une plateforme web dynamique dédiée à la gestion immobil
 
 
 ## Contributeurs
-- [Yannick VHH](https://github.com/yannickvhh)
-- [Silouane Chouteau](https://github.com/SilouaneChouteau)
+- [Clement BLAIN](https://github.com/ClementBLAIN)
 
 ## Licence
 Ce projet est développé dans le cadre d'un projet académique pour l'ECE Paris.
 
 ## Contact
 Pour toute question ou suggestion concernant ce projet, veuillez contacter :
-- Email : [leflutistedu78.lckl@gmail.com]
+- Email : [clement.blain@edu.ece.fr]
 
 
